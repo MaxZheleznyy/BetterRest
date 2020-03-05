@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		501E3F792411B66F0051FB15 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 501E3F782411B66E0051FB15 /* SleepCalculator.mlmodel */; };
 		50E1426024117F3F00842E10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E1425F24117F3F00842E10 /* AppDelegate.swift */; };
 		50E1426224117F3F00842E10 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E1426124117F3F00842E10 /* SceneDelegate.swift */; };
 		50E1426424117F3F00842E10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E1426324117F3F00842E10 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		501E3F782411B66E0051FB15 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		50E1425C24117F3F00842E10 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E1425F24117F3F00842E10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50E1426124117F3F00842E10 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				50E1426524117F4000842E10 /* Assets.xcassets */,
 				50E1426A24117F4000842E10 /* LaunchScreen.storyboard */,
 				50E1426D24117F4000842E10 /* Info.plist */,
+				501E3F782411B66E0051FB15 /* SleepCalculator.mlmodel */,
 				50E1426724117F4000842E10 /* Preview Content */,
 			);
 			path = BetterRest;
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50E1426024117F3F00842E10 /* AppDelegate.swift in Sources */,
+				501E3F792411B66F0051FB15 /* SleepCalculator.mlmodel in Sources */,
 				50E1426224117F3F00842E10 /* SceneDelegate.swift in Sources */,
 				50E1426424117F3F00842E10 /* ContentView.swift in Sources */,
 			);
